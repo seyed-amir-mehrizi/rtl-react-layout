@@ -1,14 +1,15 @@
 
-.App.sidebar {
-  padding: 10px;
-  width: 15%;
+.sidebar {
+ 
+  width: 18%;
   position: fixed;
   height: 100vh;
   overflow-y: auto;
+  background-color: #E7E9EB !important;
 }
 
-.App.mainContent {
-  margin-right: 15%;
+.mainContent {
+  margin-right: 18%;
   padding: 10px;
   overflow-y: auto;
   height: 100vh;

@@ -1,0 +1,12 @@
+#sidebar .accordion-button::after{
+    height: 0 !important;
+}
+#sidebar .nav-link{
+    color: black !important;
+    padding: 10px;
+}
+#sidebar .nav-link:hover{
+    background-color: #7a828b;
+    color: white;
+    border-radius: 10px;
+}
